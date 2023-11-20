@@ -6,5 +6,5 @@ Deployment of Gaussian mixture models
 ![specs](specs/specs2.png)
 
 # Results
-![output](specs/output.png)
-![output](specs/output2.png)
+![output](results/output.png)
+![output](results/output2.png)
